@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.robots.ox.ac.uk/~frtim//sitemap.xml
+Sitemap: /website_simplehttps://username.github.io/sitemap.xml
